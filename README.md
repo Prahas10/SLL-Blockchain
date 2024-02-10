@@ -31,5 +31,3 @@ To run the blockchain implementation, execute the Main.java file. This file cont
 The code allows the user to change the hash value of any block in the blockchain, demonstrating how a breach affects the validity of the blockchain. Error messages are generated if there is a mismatch between hash values, indicating an invalid blockchain state.
 
 This project serves as a simplified illustration of the basic concepts behind blockchain technology, showcasing its security features and the importance of hash values in maintaining data integrity.
-
-For further details and insights, refer to the detailed documentation provided in the project files.
